@@ -1,7 +1,7 @@
 import sys
 input = sys.stdin.readline
 #recursion error 방지
-sys.setrecursionlimit(10**9)
+sys.setrecursionlimit(10**6)
 
 arr = []
 
